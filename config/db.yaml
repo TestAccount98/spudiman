@@ -1,0 +1,8 @@
+driver: mysql
+host: localhost
+database: spudiman
+username: root
+password: null
+charset: utf8
+collation: utf8_general_ci
+prefix: null
